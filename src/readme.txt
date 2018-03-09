@@ -5,4 +5,3 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 This is for testing --no-ff on the dev branch.
 1
-2
