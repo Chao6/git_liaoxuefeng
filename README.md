@@ -8,6 +8,6 @@ This work is done by following Xuefeng Liao's [git tutorial](https://www.liaoxue
 
 # Acknowledgments
 
-* Git Cheet-sheet.pdf was found online.
+* git cheetsheet.pdf was found online.
 * Thanks Xuefeng Liao's excellent tutorial!
 
