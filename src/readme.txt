@@ -4,3 +4,4 @@ Git has a mtable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick and simple.
 This is for testing --no-ff on the dev branch.
+This is for testing git checkout to recovery one file.
